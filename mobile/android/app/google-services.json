@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "548864966563",
+    "project_id": "pet-collar-f02ba",
+    "storage_bucket": "pet-collar-f02ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548864966563:android:b10b77ec058c9f9b10e416",
+        "android_client_info": {
+          "package_name": "com.example.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVfLysZDEttvSaNV1xuEivzesrLky9Ios"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
