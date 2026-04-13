@@ -1,3 +1,18 @@
-# Default ignored files
-/shelf/
-/workspace.xml
+# IDE
+.idea/
+
+# Firebase / junk
+mobile/functions/
+mobile/.agents/
+mobile/android/app/google-services.json
+
+# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Misc
+*.log
+.env
