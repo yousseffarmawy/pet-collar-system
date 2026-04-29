@@ -66,9 +66,6 @@ flutter run
 
 ---
 
-## 📸 Screenshots
-
-(Add your app screenshots here)
 
 
 ## 👨‍💻 Author
